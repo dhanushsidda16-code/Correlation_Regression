@@ -57,6 +57,7 @@ plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
 # Result
-
+The coefficient of correlation and regression lines were successfully calculated for the given data.
+The relationship between the variables was analysed and the regression equations were obtained.
 # Output 
 <img width="843" height="638" alt="Screenshot 2026-08-21 162710" src="https://github.com/user-attachments/assets/861be0d4-e796-4375-bbe4-b8ed4935ec1d" />
